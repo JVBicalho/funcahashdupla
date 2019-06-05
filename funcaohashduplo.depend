@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559688585 source:/home/eng/Documents/Aeds/funcaohashduplo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<uni.h>
+
+1559683837 /home/eng/Documents/Aeds/funcaohashduplo/include/uni.h
+
+1559688602 source:/home/eng/Documents/Aeds/funcaohashduplo/src/uni.cpp
+
